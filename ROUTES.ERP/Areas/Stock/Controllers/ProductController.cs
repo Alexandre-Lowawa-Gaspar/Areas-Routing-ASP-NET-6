@@ -2,6 +2,7 @@
 
 namespace ROUTES.ERP.Areas.Stock.Controllers
 {
+    [Area("Stock")]
     public class ProductController : Controller
     {
         public IActionResult Index()
