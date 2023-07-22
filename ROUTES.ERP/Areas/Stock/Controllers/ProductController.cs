@@ -22,8 +22,10 @@ namespace ROUTES.ERP.Areas.Stock.Controllers
         [HttpGet]
         public IActionResult ListProduct() 
         {
-            
-            return View(new List<Product>());
+            IEnumerable<Product> products;
+            products = new List<Product>();
+
+            return View(products);
         }
 
         [HttpPost]
