@@ -214,7 +214,6 @@ C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\ob
 C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\scopedcss\bundle\ROUTES.ERP.styles.css
 C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\scopedcss\projectbundle\ROUTES.ERP.bundle.scp.css
 C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\ROUTES.ERP.csproj.CopyComplete
@@ -223,3 +222,4 @@ C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\ob
 C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\ROUTES.ERP.pdb
 C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\ROUTES.ERP.genruntimeconfig.cache
 C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\ref\ROUTES.ERP.dll
+C:\Users\Alexandre Gaspar\Documents\GitHub\Areas-Routing-ASP-NET-6\ROUTES.ERP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
