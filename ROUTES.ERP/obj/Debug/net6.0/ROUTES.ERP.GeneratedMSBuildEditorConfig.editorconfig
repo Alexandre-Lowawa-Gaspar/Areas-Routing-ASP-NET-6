@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvY2tcVmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Alexandre Gaspar/Documents/GitHub/Areas-Routing-ASP-NET-6/ROUTES.ERP/Areas/Stock/Views/Product/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvY2tcVmlld3NcUHJvZHVjdFxFZGl0UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alexandre Gaspar/Documents/GitHub/Areas-Routing-ASP-NET-6/ROUTES.ERP/Areas/Stock/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvY2tcVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexandre Gaspar/Documents/GitHub/Areas-Routing-ASP-NET-6/ROUTES.ERP/Areas/Stock/Views/Product/ListProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvY2tcVmlld3NcUHJvZHVjdFxMaXN0UHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alexandre Gaspar/Documents/GitHub/Areas-Routing-ASP-NET-6/ROUTES.ERP/Areas/Stock/Views/Shared/_Layout.cshtml]
