@@ -1,17 +1,11 @@
 ﻿@model ROUTES.ERP.Areas.Stock.Models.Product
 
 @{
-    Layout = null;
+    ViewData["Title"] = "AddProduct";
+    Layout = "~/Areas/Stock/Views/Shared/_Layout.cshtml";
 }
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>AddProduct</title>
-</head>
-<body>
+<h1>AddProduct</h1>
 
 <h4>Product</h4>
 <hr />
@@ -58,5 +52,3 @@
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
-</body>
-</html>
